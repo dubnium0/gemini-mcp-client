@@ -1,6 +1,8 @@
 # Gemini MCP Client
 
 A Streamlit-based UI client for interacting with MCP (Model Context Protocol) servers using Google Gemini models.
+![App Screenshot](1.png)
+![App Screenshot](2.png)
 
 ## Features
 
