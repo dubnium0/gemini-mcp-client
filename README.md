@@ -1,8 +1,6 @@
 # Gemini MCP Client
 
 A Streamlit-based UI client for interacting with MCP (Model Context Protocol) servers using Google Gemini models.
-![App Screenshot](1.png)
-![App Screenshot](2.png)
 
 ## Features
 
@@ -39,6 +37,8 @@ Then open http://localhost:8501 in your browser.
 ```bash
 uv run python client.py path/to/your/mcp-server.py
 ```
+![App Screenshot](1.png)
+![App Screenshot](2.png)
 
 ## Configuration
 
@@ -49,6 +49,7 @@ uv run python client.py path/to/your/mcp-server.py
 3. **MCP Server Path**: Path to your MCP server script.
 4. **Context Settings**: Enable/disable context window and set message limit.
 5. **System Instruction**: Optional system prompt for the model.
+
 
 ## Dependencies
 
